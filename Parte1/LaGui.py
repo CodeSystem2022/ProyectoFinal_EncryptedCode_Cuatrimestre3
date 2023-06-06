@@ -15,7 +15,7 @@ ventana.iconbitmap(sys.executable)
 db=sqlite3.connect('Plataforma.db')
 c=db.cursor()
 
-# Ventana Registro
+#  Muestra Ventana Registro 
 
 def nuevaVentana():
 
