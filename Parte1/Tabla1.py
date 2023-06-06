@@ -1,4 +1,4 @@
-# Practica de tabla sqlite3
+# Practica de tabla Sqlite3
 import sqlite3
 
 conn=sqlite3.connect('Plataforma.db')
