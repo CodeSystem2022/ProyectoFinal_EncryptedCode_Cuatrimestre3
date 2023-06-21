@@ -11,9 +11,9 @@ Creamos un Banco de datos, carga de usuarios.
 # ROBERTO PEREZ
 
 |  ***INTEGRANTES***	 |
-|--------- | --------- |
-| **ROCIO PULITTA	**    | 
-| **LUIS MAYORGA**    |
-| **LUCAS LIMACHI**    | 
+|--------- | --------- |  
+| **ROCIO PULITTA	**    |  
+| **LUIS MAYORGA**    | 
+| **LUCAS LIMACHI**    |  
 | **ANDREA LLAVEL**    | 
-| **ROBERTO PEREZ**    |
+| **ROBERTO PEREZ**   |   
