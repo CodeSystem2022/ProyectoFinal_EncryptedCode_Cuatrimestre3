@@ -1,9 +1,9 @@
  # ProyectoFinal_EncryptedCode
 Creamos un Banco de datos, carga de usuarios.
 
+#GIF PC
 
-
-#* Integrantes:  
+# Integrantes:  
 # ROCIO PULITTA   
 # LUIS MAYORGA 
 # LUCAS LIMACHI   
