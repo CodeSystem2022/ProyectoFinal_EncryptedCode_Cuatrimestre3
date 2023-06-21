@@ -6,7 +6,7 @@ fig = plt.figure(figsize = (8, 5))
   # Creamos una figura
 ax1 = fig.add_subplot(111, projection='3d')   #Creamos un Eje
 
-x3 = [1,2,3,4,5,6,7,8,9,10,11] #Se crea un arreglo con datos
+x3 = [1,2,3,4,5,6,7,8,9,10] #Se crea un arreglo con datos
 y3 = [5,6,7,8,2,5,6,3,7,2]  # En una lista
 z3 = np.zeros(10)           #Se crea unaMatriz
 # Datos a la superficie en 3D
