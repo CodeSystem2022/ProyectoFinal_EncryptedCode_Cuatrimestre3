@@ -9,10 +9,3 @@ Creamos un Banco de datos, carga de usuarios.
 # LUCAS LIMACHI   
 # ANDREA LLAVEL   
 # ROBERTO PEREZ
-
-|  ***INTEGRANTES***	 |
-|--------- | --------- |  
-| **LUIS MAYORGA**    | 
-| **LUCAS LIMACHI**    |  
-| **ANDREA LLAVEL**    | 
-| **ROBERTO PEREZ**   |   
