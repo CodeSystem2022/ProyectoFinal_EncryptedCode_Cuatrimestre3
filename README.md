@@ -3,7 +3,7 @@ Creamos un Banco de datos, carga de usuarios.
 
 
 
-|# Integrantes:|
+# |Integrantes:|
 # ROCIO PULITTA  
 # LUIS MAYORGA   
 # LUCAS LIMACHI  
