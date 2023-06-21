@@ -1,9 +1,9 @@
- # {\color{blue}ProyectoFinal_EncryptedCode
+ # ProyectoFinal_EncryptedCode
 Creamos un Banco de datos, carga de usuarios.
 
 
 
-# Integrantes:
+|# Integrantes:|
 # ROCIO PULITTA  
 # LUIS MAYORGA   
 # LUCAS LIMACHI  
