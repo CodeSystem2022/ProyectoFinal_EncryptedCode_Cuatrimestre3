@@ -8,4 +8,12 @@ Creamos un Banco de datos, carga de usuarios.
 # LUIS MAYORGA  
 # LUCAS LIMACHI   
 # ANDREA LLAVEL   
-# ROBERTO PEREZ    
+# ROBERTO PEREZ
+
+|  ***INTEGRANTES***	 |
+|--------- | --------- |
+| **ROCIO PULITTA	**    | 
+| **LUIS MAYORGA**    |
+| **LUCAS LIMACHI**    | 
+| **ANDREA LLAVEL**    | 
+| **ROBERTO PEREZ**    |
