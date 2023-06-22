@@ -1,4 +1,4 @@
-# Andrea LLavel
+# Andrea LLavel ,base de datos para trabajar en Sqlite3.
 from tkinter import *
 import tkinter as tk
 from tkinter import messagebox as mb
