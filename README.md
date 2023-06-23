@@ -1,8 +1,7 @@
 #    ***[       PROYECTO INTEGRADOR FINAL ENCRYPTED CODE    ]***
 
 
-#   ![image](https://github.com/CodeSystem2022/ProyectoIntegradorFinal3_EncryptedCode/assets/112596102/29849653-077c-497a-99ea-927da224c342)  PLATAFORMA UTENIANA     ![image](https://github.com/CodeSystem2022/ProyectoIntegradorFinal3_EncryptedCode/assets/112596102/17423721-3fc4-440a-944f-bfd5b5c5cf46)  
-# EN BASE DE DATOS 
+#   ![image](https://github.com/CodeSystem2022/ProyectoIntegradorFinal3_EncryptedCode/assets/112596102/29849653-077c-497a-99ea-927da224c342)  PLATAFORMA UTENIANA     ![image](https://github.com/CodeSystem2022/ProyectoIntegradorFinal3_EncryptedCode/assets/112596102/17423721-3fc4-440a-944f-bfd5b5c5cf46)  EN BASE DE DATOS 
 
 #      Integrantes del Equipo: 
 
