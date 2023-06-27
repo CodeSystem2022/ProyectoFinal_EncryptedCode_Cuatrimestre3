@@ -1,7 +1,8 @@
 #Andrea Llavel. Este Grafico es para cargar los datos de estudiantes y para poder ver una manera de como se hacen
-import matplotlib.pyplot as plt 
-from mpl_toolkits.mplot3d import Axes3D 
-import numpy as np 
+import matplotlib.pyplot as plt    #Matplotlib: libreria ,cuyo objetivo es visualizar las señales electricas del cerebro de personas epilepticas.Desarrollado por un Biologo
+# Para conseguirlo, queria replicar las funcionalidades de creacion grafica de MATLAB con Python
+from mpl_toolkits.mplot3d import Axes3D  #Es el contenedor de la grafica.Una figura puede contener varios axes y un axes puede contener varias graficas
+import numpy as np     #Numpy: Numerical Python.Se utiliza para programacion cientifica ,la ingenieria y las matemiaticas o la ciencia
 from numpy import *
 fig = plt.figure(figsize = (8, 5))
   # Creamos una figura
