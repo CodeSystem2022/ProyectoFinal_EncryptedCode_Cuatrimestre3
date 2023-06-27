@@ -1,10 +1,10 @@
 # Andrea LLavel ,base de datos para trabajar en Sqlite3.
-from tkinter import *
+from tkinter import *   #Tkinter es una libreria que facilita el posicionamiento y desarrollo de una interfaz grafica de escritorio con Python
 import tkinter as tk
 from tkinter import messagebox as mb
-import sqlite3
-import sys
-from PIL import Image
+import sqlite3          #SQlit3 : es una biblioteca de C , que provee una ligera base de datos basada en disco que no requiere un proceso de servidor
+import sys              #separado y permite acceder a la base de datos usando una variacion estandar del lenguaje de consulta SQL
+from PIL import Image   #Pil: es una libreria gratuita que permite la edicion de imagenes directamente desde Python.
 # Configuración de la ventana Principal
 
 ventana=tk.Tk()
