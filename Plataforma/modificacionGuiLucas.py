@@ -1,4 +1,6 @@
 #Limachi Lucas - Codigo modificado para que sea ejecutable
+
+
 import tkinter
 import tkinter.ttk as ttk
 import tkinter as tk
@@ -6,7 +8,7 @@ from tkinter import messagebox as mb
 import sqlite3
 import matplotlib.pyplot as plt
 
-# Clase principal de la ventana
+# crear clase ventanaprincipal
 class VentanaPrincipal(tk.Tk):
     def __init__(self):
         super().__init__()
